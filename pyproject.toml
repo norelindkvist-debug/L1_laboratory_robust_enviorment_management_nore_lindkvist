@@ -1,0 +1,14 @@
+[project]
+name = "l1-laboratory-robust-enviorment-handling-nore-lindkvist"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "jupyter>=1.1.1",
+    "pandas>=3.0.0",
+    "scikit-learn>=1.8.0",
+    "torch>=2.10.0",
+    "torchaudio>=2.10.0",
+    "torchvision>=0.25.0",
+]
