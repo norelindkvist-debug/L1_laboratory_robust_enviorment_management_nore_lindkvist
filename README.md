@@ -24,3 +24,7 @@ The script performs the following checks:
 - Scikit-learn
 - Pandas
 - Jupyter
+
+### Reflection 
+
+It was hard to install pytorch at first but then i changed "requires-python" in "pyproject.toml" to ">=3.12,<3.14" and it worked, everything else worked without any problems.
